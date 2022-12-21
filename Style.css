@@ -1,0 +1,56 @@
+#header{
+    display: flex;
+    background-color: rgba(63, 217, 217, 0.788);
+    height: 80px;
+    align-items: center;
+}
+#top{
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+
+#body{
+    display: flex;
+    align-items: baseline;
+}
+
+#bgnav{
+    background-color: orange;
+    height: 425px;
+    width: 200px;
+}
+#nav{
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+#bgart{
+    background-color: rgb(255, 218, 71);
+    height: 425px;
+    width: 600px;
+}
+#art{
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+#bgasi{
+    background-color: rgb(254, 235, 126);
+    height: 425px;
+    width: 420px;
+}
+#asi{
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+#footer{
+    top: 0;
+    background-color: rgb(1, 147, 135);
+    height: 80px;
+}
+#bottom{
+    margin-left: 30px;
+    font-size: 25px;
+}
